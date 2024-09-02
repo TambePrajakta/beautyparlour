@@ -55,9 +55,9 @@
       width: 75px;
      }
       /* Mobile Devices */
-      @media screen and (min-width:500px) and (max-width: 760px) {
+      @media screen and (max-width:500px){
          body{
-            background-color:rgb(253, 158, 205) ;
+            background-color:rgb(252, 162, 207) ;
          }
          .text1{
             font-size: 30px;
